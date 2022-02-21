@@ -5,5 +5,5 @@
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get internship in BigGiants
+- 🥅 2022 Goals: Polishing my dsa skills
 - ⚡ Fun fact: I love to listen music
